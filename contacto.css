@@ -1,0 +1,28 @@
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #c9ffb2;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: #ebfebeec;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    background-size: cover;
+    background-position: center;
+    padding: 1rem;
+}
+
+p{
+    text-align: center;
+    color: #333333;
+    font-size: 1.2rem;
+}
+
+form{
+    background-color: #c2ff93;
+    padding: 2rem;
+    border-radius: 8px;
+}
